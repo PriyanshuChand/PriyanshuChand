@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a computer science student learning data science.
+I'm a computer science student.
 <!--
 **PriyanshuChand/PriyanshuChand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
