@@ -1,5 +1,5 @@
 ### Hi there 👋
-programmer • learning web development
+programmer • learning java & DSA
 <!--
 **PriyanshuChand/PriyanshuChand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
