@@ -1,6 +1,5 @@
 ### Hi there 👋
 programmer • web developer 
-skills - java, html5, css3, javascript
 <!--
 **PriyanshuChand/PriyanshuChand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
